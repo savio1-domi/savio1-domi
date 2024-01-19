@@ -2,7 +2,7 @@
 
 ___
 
-- I'm a <b><i>full-stack<b><i> developer proficient in both <b>front-end<b> and <b>back-end<b><br>
+- I'm a <b><i>full-stack<b>developer proficient in both <b>front-end<b> and <b>back-end<b><br>
 - I'm from Kenya Busia but now living in Nairobi the city under the sun `GMT+3`
 
 
