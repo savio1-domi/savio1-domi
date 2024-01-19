@@ -1,16 +1,16 @@
-### Hi there 👋
+- 👋 Hi, I’m Ian Kamau
+- ❤️ In love with Ruby on Rails
+- 🌱 I’m currently learning Node js microservices
+- 📫 You can reach me via kian99564@gmail.com
+- My Portfolio https://portfolio-iank-code.vercel.app/ 
 
-<!--
-**savio1-domi/savio1-domi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<br/>
+<br/>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="200"/>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies and Tools
+<div>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react
