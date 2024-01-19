@@ -27,7 +27,7 @@ ___
 ___
 
 - My Personal Email <a target="_blank" href="mailto:jumawafuladominic@gmail.com.com">jumawafuladominic@gmail.com</a>
-- My Phone NO <a target="_blank" href="tel:+254729201192">+254729201192</a>
+- My Phone NO <a target="_blank" href="tel:+254729201192">+254 729 201192</a>
 
 ### 🖥 Tech I Use
 ___
