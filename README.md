@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ian Kamau
+- 👋 Hi, I’m DOMINIC JUMA WAFULA
 - ❤️ In love with Ruby on Rails
 - 🌱 I’m currently learning Node js microservices
-- 📫 You can reach me via kian99564@gmail.com
-- My Portfolio https://portfolio-iank-code.vercel.app/ 
+- 📫 You can reach me via jumawafuladominic@gmail.com
+ 
 
 <br/>
 <br/>
