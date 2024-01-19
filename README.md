@@ -32,8 +32,10 @@ ___
 <a  target="_blank" href="https://linkedin.com/in/dominic-juma-018305279"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominic-juma-018305279" height="30" width="40" /></a>
 <a target="_blank" href="https://twitter.com/https://twitter.com/saviodomiju"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saviodomiju" height="30" width="40" /></a>
 <a target="_blank" href="https://www.instagram.com/saviodomijw"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saviodomijw" height="30" width="40" /></a>
-<a target="_blank" href="https://stackoverflow.com/users/23269661saviodomijw"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23269661saviodomijw" height="30" width="40" /></a>
-</p>
+<a target="_blank" href="https://stackoverflow.com/users/23269661/saviodomijw">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saviodomijw" height="30" width="40" />
+</a>
+
 
 
 ### 🖥 Tech I Use
