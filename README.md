@@ -16,9 +16,8 @@ ___
 
 - **🙋‍♂️ Personal**
 
-  - I'm an <a target="_blank" href="https://www.16personalities.com/intj-personality">INTJ</a>
   - I love language learning, singing, and 
-  - I type at around 70-80wpm
+  - I type at around 30-40wpm
   - I can speak English/Kiswahili & I'm currently learning French
 
 
