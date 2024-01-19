@@ -1,9 +1,9 @@
-<h3> <a href="#"><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></a> Hi there, I'm Dominic</h3>
+<h3 align="center"> <a href="#"><img width="30px" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif"></a> Hi there, I'm Dominic</h3>
 
 ___
 
-- I'm a full-stack engineer proficient in both front-endand back-end<br>
-- I'm from Kenya Busia but now living in Nairobi the city under the sun `GMT+3`
+- I'm a full-stack engineer proficient in both front-end and back-end<br>
+- I'm from Kenya Busia but now living in Nairobi the city under the sun <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css" integrity="sha512-ZH+VF8CgOqrJrWgf72ZJSyDT4Zc0v5Jew7dDxM3zumR+7gNvDLlypUq66P2RSgUkoxc4TgH5eFb9Pou8F3li6eA==" crossorigin="anonymous" referrerpolicy="no-referrer" />`GMT+3`
 
 
 ### ⚡ Quick Facts
