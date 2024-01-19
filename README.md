@@ -29,10 +29,10 @@ ___
 - My Personal Email <a target="_blank" href="mailto:jumawafuladominic@gmail.com.com">jumawafuladominic@gmail.com</a>
 - My Phone NO <a target="_blank" href="tel:+254729201192">+254 729 201192</a>
 <p align="left">
-<a href="https://linkedin.com/in/saki-basken-51b3a151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saki-basken-51b3a151" height="30" width="40" /></a>
-<a href="https://twitter.com/https://twitter.com/baskensaki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/baskensaki" height="30" width="40" /></a>
-<a href="https://www.instagram.com/saviodomijw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saviodomijw" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21845011/saviodomijw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21845011/sbasken" height="30" width="40" /></a>
+<a  target="_blank" href="https://linkedin.com/in/dominic-juma-018305279"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominic-juma-018305279" height="30" width="40" /></a>
+<a target="_blank" href="https://twitter.com/https://twitter.com/saviodomiju"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/saviodomiju" height="30" width="40" /></a>
+<a target="_blank" href="https://www.instagram.com/saviodomijw"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saviodomijw" height="30" width="40" /></a>
+<a target="_blank" href="https://stackoverflow.com/users/23269661saviodomijw"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/23269661saviodomijw" height="30" width="40" /></a>
 </p>
 
 
