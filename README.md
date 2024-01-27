@@ -3,7 +3,13 @@
 ___
 
 - I'm a full-stack engineer proficient in both front-end and back-end<br>
-- I'm from Kenya Busia but now living in Nairobi the city under the sun `GMT+3`
+- I'm from Kenya Busia but now living in Nairobi the city under the sun `GMT+3
+
+___
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=savio1-domi" alt="savio1-domi" /></a> </p>
+
 
 
 ### ⚡ Quick Facts
