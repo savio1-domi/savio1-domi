@@ -34,14 +34,15 @@ ___
 
 - My Personal Email <a target="_blank" href="mailto:jumawafuladominic@gmail.com.com">jumawafuladominic@gmail.com</a>
 - My Phone NO <a target="_blank" href="tel:+254729201192">+254 729 201192</a>
+
 <div style="display: flex; justify-content: flex-start; align-items: center;">
     <a target="_blank" href="https://linkedin.com/in/dominic-juma-018305279">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme- 
-           generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominic-juma-018305279" height="30" width="40" />
+generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominic-juma-018305279" height="30" width="40" />
     </a>
     <a target="_blank" href="https://stackoverflow.com/users/23269661/saviodomijw">
           <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-            
-              generator/master/src/images/icons/Social/stack-overflow.svg" alt="saviodomijw" height="30" width="40" />
+generator/master/src/images/icons/Social/stack-overflow.svg" alt="saviodomijw" height="30" width="40" />
     </a>
 </div>
 
