@@ -42,11 +42,11 @@ ___
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saviodomijw" height="30" width="40" />
     </a>
 </div>
-<a href="https://www.freecodecamp.org/japanese/news/author/saki/">
-  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg?logo=freecodecamp&logoColor=white" alt="freeCodeCamp" width="100" />
-</a>
-
-<img width="300px" alt="Codewars statistics" src="https://www.codewars.com/users/savio1-domi/badges/large">
+<div>
+  <a href="https://www.freecodecamp.org/japanese/news/author/saki/">
+    <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg?logo=freecodecamp&logoColor=white" alt="freeCodeCamp" width="100" />
+  </a>
+</div>
 
 
 
@@ -60,10 +60,12 @@ ____
   [![My Skills](https://skillicons.dev/icons?i=py,django,nodejs,ts)](https://skillicons.dev)
 _____
 ### Tools
-  [![My Skills](https://skillicons.dev/icons?i=github,docker,aws,postman,figma)](https://skillicons.dev)　<img width="300px" alt="Codewars statistics" src="https://www.codewars.com/users/morihagi/badges/large">  
+  [![My Skills](https://skillicons.dev/icons?i=github,docker,aws,postman,figma)](https://skillicons.dev)　
+  <img width="300px" alt="Codewars statistics" src="https://www.codewars.com/users/savio1-domi/badges/large">
 
 ### 📈 Stats
 ___
+
 
 [![My Stats](https://github-readme-stats.vercel.app/api?username=savio1-domi&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f&count_private=true)](https://github.com/savio1-domi?tab=repositories)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=savio1-domi&layout=compact&show_icons=true&hide_border=true&title_color=fe6287&icon_color=fe6287&text_color=ffffff&bg_color=0a192f)](https://github.com/savio1-domi?tab=repositories)
