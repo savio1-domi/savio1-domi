@@ -38,17 +38,12 @@ ___
     <a target="_blank" href="https://linkedin.com/in/dominic-juma-018305279">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dominic-juma-018305279" height="30" width="40" />
     </a>
+
+  
     <a target="_blank" href="https://stackoverflow.com/users/23269661/saviodomijw">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="saviodomijw" height="30" width="40" />
     </a>
 </div>
-<div>
-  <a href="https://www.freecodecamp.org/japanese/news/author/saki/">
-    <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg?logo=freecodecamp&logoColor=white" alt="freeCodeCamp" width="100" />
-  </a>
-</div>
-
-
 
 ### 🖥 Tech I Use
 ___
