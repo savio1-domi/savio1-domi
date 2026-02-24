@@ -18,11 +18,11 @@ ___
 - **💻 Work**
 
   - 👷‍♀️ I work mostly on web backend projects
-  - 🚀 I design, code and ship products end to end
+  - 🚀 I design, code, and ship products end-to-end
 
 - **🙋‍♂️ Personal**
 
-  - I love language learning, singing, and 
+  - I love language learning, singing and playing instruments(Keyboard)
   - I type at around 30-40wpm
   - I can speak English/Kiswahili & I'm currently learning French
 
